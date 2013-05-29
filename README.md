@@ -5,7 +5,7 @@ yes24.com api
 
 installation
 ------------
-pip install yes24
+```pip install yes24```
 
 
 require
