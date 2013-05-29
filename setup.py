@@ -7,7 +7,7 @@ except ImportError:
 
 setup(
 	name='yes24',
-	version='0.1',
+	version='0.1.1',
 	packages=['yes24'],
 	package_dir={'yes24': 'src/yes24'},
 	install_requires=['beautifulsoup4', 'lxml'],
